@@ -8,5 +8,5 @@ export default defineConfig({
     host: true,
     port: 5173,
   },
-  base: 'https://github.com/mynameisjonelledev/meme-generator',
+  base: '',
 });
